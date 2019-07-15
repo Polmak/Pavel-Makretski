@@ -12,7 +12,7 @@
 
 *.iml
 *.xml
-/.idea
+.idea/
 
 # Package Files #
 *.jar
